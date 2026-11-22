@@ -1,0 +1,19 @@
+{
+  "name": {
+    "en": "Wood and Stone Footsteps",
+    "zh-CN": "木地板与石地面脚步声",
+    "ja": "木の床と石の床の足音",
+    "ko": "나무 바닥과 돌바닥의 발소리",
+    "es": "Pasos sobre madera y piedra"
+  },
+  "about": "Four short synthesized footsteps for picture edits. Alternate two variants for wooden floors and two for stone floors.",
+  "by": "Jonathangroschel",
+  "license": "CC0-1.0",
+  "version": 1,
+  "items": [
+    "sound/wood-step-1",
+    "sound/wood-step-2",
+    "sound/stone-step-1",
+    "sound/stone-step-2"
+  ]
+}

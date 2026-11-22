@@ -1,0 +1,31 @@
+{
+  "cat": "sound",
+  "name": {
+    "en": "Wood Footstep 1",
+    "zh-CN": "木地板脚步声 1",
+    "ja": "木の床の足音 1",
+    "ko": "나무 바닥 발소리 1",
+    "es": "Paso sobre madera 1"
+  },
+  "about": "A soft synthesized footstep for a wooden floor. Alternate it with Wood Footstep 2 for repeated steps.",
+  "tags": [
+    "footsteps",
+    "foley",
+    "wood"
+  ],
+  "by": "Jonathangroschel",
+  "license": "CC0-1.0",
+  "source": {
+    "kind": "cc0",
+    "url": "https://www.saturalabs.com/audio-workflow-kits/game-jam-sounds"
+  },
+  "version": 1,
+  "main": "sound.m4a",
+  "durationMs": 310,
+  "files": [
+    {
+      "path": "sound.m4a",
+      "bytes": 6210
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "cat": "sound",
+  "name": {
+    "en": "Stone Footstep 2",
+    "zh-CN": "石地面脚步声 2",
+    "ja": "石の床の足音 2",
+    "ko": "돌바닥 발소리 2",
+    "es": "Paso sobre piedra 2"
+  },
+  "about": "A second synthesized footstep for a stone floor, paired with Stone Footstep 1.",
+  "tags": [
+    "footsteps",
+    "foley",
+    "stone"
+  ],
+  "by": "Jonathangroschel",
+  "license": "CC0-1.0",
+  "source": {
+    "kind": "cc0",
+    "url": "https://www.saturalabs.com/audio-workflow-kits/game-jam-sounds"
+  },
+  "version": 1,
+  "main": "sound.m4a",
+  "durationMs": 280,
+  "files": [
+    {
+      "path": "sound.m4a",
+      "bytes": 5606
+    }
+  ]
+}
